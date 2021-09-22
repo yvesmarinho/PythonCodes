@@ -1,2 +1,2 @@
 # PythonCodes
-Python codes to help us from daily qork
+Python codes to help us from daily work
